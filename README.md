@@ -1,1 +1,1 @@
-# FilksCalculator
+https://eskard.github.io/FilksCalculator/
